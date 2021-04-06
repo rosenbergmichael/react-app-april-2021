@@ -20,8 +20,8 @@ function Navbar() {
   };
 
   useEffect(() => {
-    showButton()
-  }, [])
+    showButton();
+  }, []);
 
   window.addEventListener('resize', showButton);
 
@@ -29,7 +29,7 @@ function Navbar() {
     <>
       <nav className='navbar'>
         <div className='navbar-container'>
-          <Link to="/" className='navbar-logo'>
+          <Link to="/" className='navbar-logo' onClick={closeMobileMenu}>
             <i className='fas fa-passport' />TopTravel
           </Link>
           <div className='menu-icon' onClick={handleClick}> 
