@@ -30,12 +30,9 @@
 }
 
 .fa-passport {
-  padding-right: 15px;
-}
-
-.fa-typo3 {
   margin-left: 0.5rem;
-  font-size: 1.8rem;
+  font-size: 3rem;
+  padding-right: 15px;
 }
 
 .nav-menu {
