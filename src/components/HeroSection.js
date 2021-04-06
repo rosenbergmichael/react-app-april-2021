@@ -11,7 +11,13 @@ function HeroSection() {
       <p>Our planet is truly spectacular!</p>
       <div class="hero-btns">
         <Button className="btns" buttonStyle="btn--outline"
-        buttonSize="btn--large">GET STARTED</Button>
+        buttonSize="btn--large">
+          GET STARTED
+        </Button>
+        <Button className="btns" buttonStyle="btn--primary"
+        buttonSize="btn--large">
+          WATCH TRAILER <i className="far fa-play-circle" />
+        </Button>
       </div>
     </div>
   )
