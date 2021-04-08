@@ -11,8 +11,14 @@ function Cards() {
           <ul className="cards__items">
             <CardItem 
               src="images/chiangmai.jpeg"
-              text="Explore Chiang Mai, a beautiful and relaxing city in the mountains of northern Thailand"
-              label="Adventure"
+              text="Chiang Mai: A beautiful and relaxing city in the mountains of Northern Thailand"
+              label="Southeast Asia"
+              path="/destinations"
+            />
+            <CardItem 
+              src="images/barcelona.jpeg"
+              text="Barcelona: The seaport capital of Northeastern Spain's Catalonia region"
+              label="Europe"
               path="/destinations"
             />
           </ul>
