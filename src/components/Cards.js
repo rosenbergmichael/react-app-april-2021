@@ -9,7 +9,12 @@ function Cards() {
       <div className="cards__container">
         <div className="cards__wrapper">
           <ul className="cards__items">
-            <CardItem />
+            <CardItem 
+              src="images/chiangmai.jpeg"
+              text="Explore Chiang Mai, a beautiful and relaxing city in the mountains of northern Thailand"
+              label="Adventure"
+              path="/destinations"
+            />
           </ul>
         </div>
       </div>
