@@ -11,7 +11,7 @@ function Cards() {
           <ul className="cards__items">
             <CardItem 
               src="images/chiangmai.jpeg"
-              text="Chiang Mai: A beautiful and relaxing city in the mountains of Northern Thailand"
+              text="Chiang Mai: A beautiful and laid-back city in the mountains of Northern Thailand"
               label="Southeast Asia"
               path="/destinations"
             />
@@ -25,19 +25,19 @@ function Cards() {
           <ul className="cards__items">
             <CardItem 
               src="images/amsterdam.jpeg"
-              text="Amsterdam: Tbd"
+              text="Amsterdam: Capital of The Netherlands, this canal city is full of bicyclists and 'coffee shops'"
               label="Europe"
               path="/destinations"
             />
             <CardItem 
               src="images/marrakech.jpeg"
-              text="Marrakech: Tbd"
+              text="Marrakech: A major economic center in Morocco, known for its mosques, palaces and gardens"
               label="Africa"
               path="/destinations"
             />
             <CardItem 
               src="images/alaska.jpeg"
-              text="Alaska: Tbd"
+              text="Alaska: The largest state in the U.S. is home to an abundance of wildlife, massive glaciers and the the Northern Lights "
               label="North America"
               path="/destinations"
             />
