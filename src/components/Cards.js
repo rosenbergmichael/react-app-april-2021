@@ -30,8 +30,8 @@ function Cards() {
               path="/destinations"
             />
             <CardItem 
-              src="images/morocco.jpeg"
-              text="Morocco: Tbd"
+              src="images/marrakech.jpeg"
+              text="Marrakech: Tbd"
               label="Africa"
               path="/destinations"
             />
