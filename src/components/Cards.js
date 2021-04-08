@@ -22,6 +22,26 @@ function Cards() {
               path="/destinations"
             />
           </ul>
+          <ul className="cards__items">
+            <CardItem 
+              src="images/amsterdam.jpeg"
+              text="Amsterdam: Tbd"
+              label="Europe"
+              path="/destinations"
+            />
+            <CardItem 
+              src="images/morocco.jpeg"
+              text="Morocco: Tbd"
+              label="Africa"
+              path="/destinations"
+            />
+            <CardItem 
+              src="images/alaska.jpeg"
+              text="Alaska: Tbd"
+              label="North America"
+              path="/destinations"
+            />
+          </ul>
         </div>
       </div>
     </div>
