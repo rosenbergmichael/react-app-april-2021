@@ -50,6 +50,16 @@ function Footer() {
           </div>
         </div>
       </div>
+      <section className="social-media">
+        <div className="social-media-wrap">
+          <div className="footer-logo">
+            <Link to='/' className="social-logo">
+              TopTravel <i className='fas fa-passport'></i>
+            </Link>
+          </div>
+          
+        </div>
+      </section>
     </div>
   )
 }
