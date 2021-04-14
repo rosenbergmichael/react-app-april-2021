@@ -54,7 +54,7 @@ function Footer() {
         <div className="social-media-wrap">
           <div className="footer-logo">
             <Link to='/' className="social-logo">
-              TopTravel <i className='fas fa-passport'></i>
+              <i className='fas fa-passport'></i>TopTravel 
             </Link>
           </div>
           <small className="website-rights">TopTravel © 2021 </small>
