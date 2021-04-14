@@ -17,7 +17,6 @@
 }
 
 .destinations {
-  /* background-image: url('/images/destinations.jpeg'); */
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -34,7 +33,6 @@
 }
 
  .about {
-  /* background-image: url('/images/about.jpeg'); */
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -51,7 +49,6 @@
 }
 
 .sign-up {
-  /* background-image: url('/images/signup.png'); */
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
