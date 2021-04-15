@@ -33,6 +33,7 @@ function Footer() {
             <h2>Contact</h2>
             <Link to='/'>Contact</Link>
             <Link to='/'>Support</Link>
+            <Link to='/'>Careers</Link>
           </div>
         </div>
         <div className="footer-link-wrapper">
@@ -43,11 +44,12 @@ function Footer() {
             <Link to='/'>Influencer</Link>
           </div>
           <div className="footer-link-items">
-            <h2>Social Media</h2>
-            <Link to='/'>Instagram</Link>
+            <h2>Socials</h2>
             <Link to='/'>Facebook</Link>
+            <Link to='/'>Instagram</Link>
             <Link to='/'>YouTube</Link>
             <Link to='/'>Twitter</Link>
+            <Link to='/'>LinkedIn</Link>
           </div>
         </div>
       </div>
