@@ -7,6 +7,12 @@ export default function SignUp() {
     <div>
       <img src="/images/signup2.jpeg" alt="signup-img" />
       <h1 className="sign-up">SIGN UP</h1>;
+      <form className="sign-up-form">
+        <input type="text" placeholder="Name"/>
+        <input type="text" placeholder="Email"/>
+        <input type="text" placeholder="Password"/>
+        <button>Submit</button>
+      </form>
       <Footer />
     </div>
     )
