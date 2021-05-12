@@ -3,7 +3,7 @@
   flex-direction: column;
   /* width: 60%; */
   align-items: center;
-  justify-content: center;
+  /* justify-content: center; */
   margin-bottom: 1rem;
   margin-top: -15rem;
 
@@ -16,7 +16,7 @@ input {
   width: 20rem;
 }
 
-button {
+.form-button {
   padding: .2rem;
   height: 2rem;
   width: 4rem;

@@ -12,7 +12,7 @@ export default function SignUp() {
         <input type="text" placeholder="Name"/>
         <input type="text" placeholder="Email"/>
         <input type="text" placeholder="Password"/>
-        <button>Submit</button>
+        <button className="form-button">Submit</button>
       </form>
       <Footer />
     </div>
